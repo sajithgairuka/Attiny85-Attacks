@@ -1,4 +1,5 @@
 # Attiny85-Attcks
 Attiny85 based attacks
 
-https://github.com/sajithgairuka/Attiny85-Attcks/blob/9ea8fb400905c12e47e39ac79e9a4859fd28f2d4/pctdetail.775-056.1.jpg
+
+![pctdetail 775-056 1](https://user-images.githubusercontent.com/104394666/165527997-154e2455-d816-430a-981c-0fbb392b2b7a.jpg)
