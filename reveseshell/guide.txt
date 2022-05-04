@@ -1,1 +1,3 @@
 ps.txt file placed on attacker machine.
+Attacker IP : 192.168.48.148
+Listen Port : 4444
