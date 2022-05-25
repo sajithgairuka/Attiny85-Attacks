@@ -7,7 +7,7 @@ void loop() {
   DigiKeyboard.sendKeyStroke(0);
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
   DigiKeyboard.delay(600);
-  //DigiKeyboard.print("https://youtu.be/_nQU_8Nm0Yk?t=4550");
+  //DigiKeyboard.print("https://www.youtube.com/watch?v=qgDPLhLpAKk");
   //DigiKeyboard.sendKeyStroke(KEY_ENTER);
  // DigiKeyboard.delay(5000);
  // DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
