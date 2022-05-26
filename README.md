@@ -14,7 +14,7 @@ Attiny85 based attacks
 
 I recommend going to [digistump.com](http://digistump.com/wiki/digispark/tutorials/connecting) to learn how to set up a development environment for the Attiny85.
 
-* Attacker Machine {[for Reverse Shell(https://raw.githubusercontent.com/sajithgairuka/Attiny85-Attcks/main/reveseshell/guide.txt)]} : Kali Linux
+* Attacker Machine {[for Reverse Shell guide](https://raw.githubusercontent.com/sajithgairuka/Attiny85-Attcks/main/reveseshell/guide.txt)} : Kali Linux
 * victime Machine : Windows 7 / windows 10
 
 # Bypass Techniques (Windows 10) :skull:
